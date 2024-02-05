@@ -2,7 +2,7 @@
 
 #### About :
 
-- 🔭 I’m currently working for COMPUCOM SOFTWARE LTD💻  
+- 🔭 I’m currently working for MarinePALS💻  
 - 👯 I’m looking to collaborate on OpenSource📖 & Create Small SaaS Based Product🚀 
 - 🤔 I’m looking for help with Any Tech
 - 💬 Ask me about **DEVOPS**
